@@ -1,4 +1,4 @@
-[![Howard's Github Stats](https://github-readme-stats.vercel.app/api?username=Changh341)]
+![Howard's Github Stats](https://github-readme-stats.vercel.app/api?username=Changh341)
 
 <!--
 **Changh341/changh341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
