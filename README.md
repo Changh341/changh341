@@ -1,6 +1,5 @@
 # About me
-Hello, I am Howard Chang. I am familiar with Python and Javascript. I love to do Fullstack work and am very comfortable with HTML5 and CSS3. I have also used PUG.
-I have experience using ReactJS,Flask,Express,PostgreSQL,Sequelize,SQLalchemy,Redux.
+Hello, I am Howard Chang. I love to code. 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
