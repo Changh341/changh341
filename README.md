@@ -1,6 +1,6 @@
 # About me
 Hello, I am Howard Chang. I am familiar with Python and Javascript. I love to do Fullstack work and am very comfortable with HTML5 and CSS3. I have also used PUG.
-I have used ReactJS,Flask,Express,PostgreSQL,Sequelize,SQLalchemy,Redux.
+I have experience using ReactJS,Flask,Express,PostgreSQL,Sequelize,SQLalchemy,Redux.
 
 
 ![Howard's Github Stats](https://github-readme-stats.vercel.app/api?username=Changh341)
